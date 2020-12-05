@@ -18,7 +18,11 @@ namespace blueBook.Extensions
                 .AllowAnyHeader()
                 );
             });
-
+/// <summary>
+/// method to configure iss deploy parameters
+/// </summary>
+/// <param name="services">param associate to dependency injection</param>
+/// <typeparam name="IISOptions"></typeparam>
         public static void ConfigureIISIntegration(this IServiceCollection services) =>
             services.Configure<IISOptions>(options =>
                 {

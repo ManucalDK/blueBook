@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "BjkwzRFWnWMsdUHvn3QgMr854Jk1n/pzSMGObZGYkUIb0lyq+Lx8sM4AB2Sx5utB8hc5E2Xrk6HmMfiMIY1x2Q==",
+  "dgSpecHash": "gi2N/MLGmupl/YxW3+nHIG3UK1Ogyhr0ICxwIwAWn39GHgW022gVsvz/LSe8P2zm+F4FtPUfTiCyjxZCGJghKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ManuC\\Documents\\Proyectos\\netcore\\blueBook\\LoggerService\\LoggerService.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ManuC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ManuC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

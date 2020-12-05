@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nccR9PkgumIFTswAVklcppw4peFTRHl8Bfi7pNy1yY40+oPP9YQxxD3cs5QGHOOUjzvU4Fnxnp+2dM6Z87fqoQ==",
+  "dgSpecHash": "xBtQnxh5HouxMcqG8ccnL0c9Wpp5j2jTwu1PSiqtGzBT0MRNnDMRNTG8IblDWFUFY4mb5xYFo47hzGQOQ/tomA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ManuC\\Documents\\Proyectos\\netcore\\blueBook\\Contracts\\Contracts.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ManuC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ManuC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
